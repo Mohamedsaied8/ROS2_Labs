@@ -6,3 +6,5 @@
 ## Navigation Labs
 ### SLAM
 ### Mapping
+### Path planning
+#### AStar: it does automatic avoiding obstacles
